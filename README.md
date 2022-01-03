@@ -1,5 +1,6 @@
 # Quinque
 Quinque Game
+![QuinqueLogo](https://user-images.githubusercontent.com/13278955/147929473-3a1e576d-8230-4508-975d-c4b4977cc5d3.jpg)
 
 
 
@@ -7,7 +8,11 @@ Quinque Game
 애니메이션으로 인해 다운로드 받은 후 열어주세요
 
 
-# Quinque README
+# Quinque_Game
+![mainmenu](https://user-images.githubusercontent.com/13278955/147929449-fef983b6-cf7b-44d0-9854-5f42764afc31.png)
+
+![playerSelect](https://user-images.githubusercontent.com/13278955/147929460-41e88f39-ac0f-4a53-8817-5d11d1b8d310.png)
+
 
 - 로컬 멀티게임
     - 윷놀이와 동일한 방식으로, 4개의 말을 가지고 시작하며 4개 중 2개의 말이 먼저 골인지점으로 돌아오면 승리하는 게임
@@ -27,6 +32,11 @@ Quinque Game
 
 - 튜토리얼
     - 게임 룰에 대한 설명 (앞, 뒤로가기 가능)
+
+![tutorial](https://user-images.githubusercontent.com/13278955/147929494-0805bdc4-5a65-4984-8027-61d66d22fa26.png)
+![tutorial2](https://user-images.githubusercontent.com/13278955/147929491-a36109b2-9ae6-437c-b725-7793fb76b6d7.png)
+
+
 
 - 게임 정보
     - Made by Java
