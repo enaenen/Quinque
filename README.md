@@ -1,6 +1,6 @@
 # Quinque
 Quinque Game
-![QuinqueLogo](https://user-images.githubusercontent.com/13278955/147929473-3a1e576d-8230-4508-975d-c4b4977cc5d3.jpg)
+![QuinqueLogo](https://user-images.githubusercontent.com/13278955/147929473-3a1e576d-8230-4508-975d-c4b4977cc5d3.jpg){: width="50%" height="50%"}
 
 
 
