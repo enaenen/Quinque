@@ -11,7 +11,7 @@ Quinque Game
 # Quinque_Game
 ![mainmenu](https://user-images.githubusercontent.com/13278955/147929449-fef983b6-cf7b-44d0-9854-5f42764afc31.png)
 
-![playerSelect]{ width: 200px; }(https://user-images.githubusercontent.com/13278955/147929460-41e88f39-ac0f-4a53-8817-5d11d1b8d310.png)
+![playerSelect](https://user-images.githubusercontent.com/13278955/147929460-41e88f39-ac0f-4a53-8817-5d11d1b8d310.png){ width: 200px; }
 
 
 - 로컬 멀티게임
